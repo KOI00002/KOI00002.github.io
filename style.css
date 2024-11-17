@@ -1,0 +1,26 @@
+.color-example {
+    color: rgb(0, 0, 255);
+    background-color: #fff5cd;
+    border-color: black; border-style: solid; border-width: thin;
+}
+.header-example {
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
+.list-example {
+    color:rgb(238, 30, 213);
+    font-family: fantasy, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.text-example {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.div-example {
+    background-color: rgb(175, 195, 233);
+    border-color: black; border-style: groove; border-width: 5px;
+}
